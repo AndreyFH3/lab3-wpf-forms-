@@ -1,0 +1,94 @@
+﻿<UserControl x:Class="lab3WPF.userInter"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:lab3WPF"
+             mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Grid Background="Gainsboro">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="200px"/>
+            </Grid.ColumnDefinitions>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="30"/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="2" Grid.Column="2">
+                    <Image x:Name="_3p2" Source="/Images/AndreyL/1.png" ToolTip="No" />
+                </Grid>
+                <Grid Grid.Row="1" >
+                    <Image x:Name="_1p1" Source="/Images/AndreyL/2.png" ToolTip="Come to me"/>
+                </Grid>
+                <Grid Grid.Row="2" >
+                    <Image x:Name="_1p2" Source="/Images/AndreyL/2.png" ToolTip="Come to me"/>
+                </Grid>
+                <Grid Grid.Row="3" >
+                    <Image x:Name="_1p3" Source="/Images/AndreyL/2.png" ToolTip="Come to me"/>
+                </Grid>
+                <Grid Grid.Row="2" Grid.Column="1" >
+                    <Image x:Name="_2p2" Source="/Images/AndreyL/3.png" ToolTip="Come to me"/>
+                </Grid>
+                <Grid Grid.Row="1" Grid.Column="1" >
+                    <Image x:Name="_2p1" Source="/Images/AndreyL/3.png" ToolTip="Come to me"/>
+                </Grid>
+                <Grid Grid.Row="1" Grid.Column="2" >
+                    <Image x:Name="_3p1" Source="/Images/AndreyL/3.png" ToolTip="Come to me"/>
+                </Grid>
+                <Grid Grid.Row="3" Grid.Column="2" >
+                    <Image x:Name="_3p3" Source="/Images/AndreyL/3.png" ToolTip="Come to me"/>
+                </Grid>
+                <Grid Grid.Row="3" Grid.Column="1" >
+                    <Image x:Name="_2p3" Source="/Images/AndreyL/3.png" ToolTip="Come to me"/>
+                </Grid>
+                <Grid Grid.Column="2" Background="Black">
+                    <TextBlock x:Name="visiting" Grid.Column="2" Foreground="White" Height="20px" Text="last visit: 16:53 yesterday" HorizontalAlignment="Center" VerticalAlignment="Center" FontFamily="Days"/>
+                </Grid>
+                <!--Время посещения-->
+                <Grid  Background="Black"/>
+                <!--Andrey Likhnitskiy-->
+                <Grid Grid.Column="1" Background="Black"/>
+                <!--Andrey Ivanov-->
+            </Grid>
+            <Grid Grid.Column="1" Background="#FF1A0549">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="323*"/>
+                    <RowDefinition Height="8*"/>
+                    <RowDefinition Height="112*"/>
+                </Grid.RowDefinitions>
+                <Image x:Name="fone" Height="145" VerticalAlignment="Top" Source="/Images/berdsk.jpg" />
+                <Ellipse  Width="100px"  HorizontalAlignment="Right" Margin="0,80,20,142.9" Stroke="White">
+                    <Ellipse.Fill>
+                        <ImageBrush x:Name="mainpic" ImageSource="Images/Likh.jpg" Stretch="Uniform"/>
+                    </Ellipse.Fill>
+                </Ellipse>
+                <TextBlock x:Name="name_changed" Text="Andrey Likhnitskiy" Foreground="White" FontFamily="Days" FontSize="12" Margin="12,12,12,0" Height="28" VerticalAlignment="Top"  />
+                <StackPanel Margin="0,150,0,29.9">
+                    <Grid Height="180" Margin="15 50">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="40*"/>
+                            <RowDefinition Height="40*"/>
+                            <RowDefinition Height="100*"/>
+                        </Grid.RowDefinitions>
+                        <TextBlock x:Name="organisation" Text="Organisation: SibSUTIS" Foreground="White" FontFamily="Days" FontSize="12" />
+                        <TextBlock x:Name="position" Text="Position: Student" Foreground="White" FontFamily="Days" FontSize="12" Grid.Row="1" />
+                    </Grid>
+                </StackPanel>
+                <TextBlock x:Name="stat" TextWrapping="Wrap" Foreground="White"  FontFamily="Days" Margin="15,19.8,15,14.2" Grid.Row="2" d:LayoutOverrides="Height">I really tired doing it... I want it working... But! That was the most interesting work i have ever done in design!</TextBlock>
+            </Grid>
+        </Grid>
+        <StackPanel Orientation="Horizontal" VerticalAlignment="Top" HorizontalAlignment="Right" Height="40"/>
+    </Grid>
+</UserControl>

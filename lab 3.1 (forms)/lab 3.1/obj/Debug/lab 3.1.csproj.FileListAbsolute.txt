@@ -1,0 +1,33 @@
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab 3.1\lab 3.1\bin\Debug\lab 3.1.exe.config
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab 3.1\lab 3.1\bin\Debug\lab 3.1.exe
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab 3.1\lab 3.1\bin\Debug\lab 3.1.pdb
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab 3.1\lab 3.1\obj\Debug\lab 3.1.csprojAssemblyReference.cache
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab 3.1\lab 3.1\obj\Debug\lab_3._1.Properties.Resources.resources
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab 3.1\lab 3.1\obj\Debug\lab 3.1.csproj.GenerateResource.cache
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab 3.1\lab 3.1\obj\Debug\lab 3.1.csproj.CoreCompileInputs.cache
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab 3.1\lab 3.1\obj\Debug\lab 3.1.exe
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab 3.1\lab 3.1\obj\Debug\lab 3.1.pdb
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab 3.1\lab 3.1\obj\Debug\lab_3._1.Form1.resources
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab 3.1\lab 3.1\obj\Debug\lab_3._1.HoverButton.resources
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab 3.1 (forms)\lab 3.1\bin\Debug\lab 3.1.exe.config
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab 3.1 (forms)\lab 3.1\bin\Debug\lab 3.1.exe
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab 3.1 (forms)\lab 3.1\bin\Debug\lab 3.1.pdb
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab 3.1 (forms)\lab 3.1\obj\Debug\lab 3.1.csprojAssemblyReference.cache
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab 3.1 (forms)\lab 3.1\obj\Debug\lab_3._1.Form1.resources
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab 3.1 (forms)\lab 3.1\obj\Debug\lab_3._1.HoverButton.resources
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab 3.1 (forms)\lab 3.1\obj\Debug\lab_3._1.Properties.Resources.resources
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab 3.1 (forms)\lab 3.1\obj\Debug\lab 3.1.csproj.GenerateResource.cache
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab 3.1 (forms)\lab 3.1\obj\Debug\lab 3.1.csproj.CoreCompileInputs.cache
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab 3.1 (forms)\lab 3.1\obj\Debug\lab 3.1.exe
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab 3.1 (forms)\lab 3.1\obj\Debug\lab 3.1.pdb
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3\lab 3.1 (forms)\lab 3.1\bin\Debug\lab 3.1.exe.config
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3\lab 3.1 (forms)\lab 3.1\bin\Debug\lab 3.1.exe
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3\lab 3.1 (forms)\lab 3.1\bin\Debug\lab 3.1.pdb
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3\lab 3.1 (forms)\lab 3.1\obj\Debug\lab 3.1.csprojAssemblyReference.cache
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3\lab 3.1 (forms)\lab 3.1\obj\Debug\lab_3._1.Form1.resources
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3\lab 3.1 (forms)\lab 3.1\obj\Debug\lab_3._1.HoverButton.resources
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3\lab 3.1 (forms)\lab 3.1\obj\Debug\lab_3._1.Properties.Resources.resources
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3\lab 3.1 (forms)\lab 3.1\obj\Debug\lab 3.1.csproj.GenerateResource.cache
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3\lab 3.1 (forms)\lab 3.1\obj\Debug\lab 3.1.csproj.CoreCompileInputs.cache
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3\lab 3.1 (forms)\lab 3.1\obj\Debug\lab 3.1.exe
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3\lab 3.1 (forms)\lab 3.1\obj\Debug\lab 3.1.pdb

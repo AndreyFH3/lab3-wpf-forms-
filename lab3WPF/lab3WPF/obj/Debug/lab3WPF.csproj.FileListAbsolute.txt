@@ -1,0 +1,69 @@
+C:\Users\Andrey\source\repos\lab3WPF\lab3WPF\bin\Debug\lab3WPF.exe.config
+C:\Users\Andrey\source\repos\lab3WPF\lab3WPF\bin\Debug\lab3WPF.exe
+C:\Users\Andrey\source\repos\lab3WPF\lab3WPF\bin\Debug\lab3WPF.pdb
+C:\Users\Andrey\source\repos\lab3WPF\lab3WPF\bin\Debug\MaterialDesignColors.dll
+C:\Users\Andrey\source\repos\lab3WPF\lab3WPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Andrey\source\repos\lab3WPF\lab3WPF\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Andrey\source\repos\lab3WPF\lab3WPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Andrey\source\repos\lab3WPF\lab3WPF\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Andrey\source\repos\lab3WPF\lab3WPF\obj\Debug\lab3WPF.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\lab3WPF\lab3WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Andrey\source\repos\lab3WPF\lab3WPF\obj\Debug\App.g.cs
+C:\Users\Andrey\source\repos\lab3WPF\lab3WPF\obj\Debug\lab3WPF_MarkupCompile.cache
+C:\Users\Andrey\source\repos\lab3WPF\lab3WPF\obj\Debug\lab3WPF_MarkupCompile.lref
+C:\Users\Andrey\source\repos\lab3WPF\lab3WPF\obj\Debug\App.baml
+C:\Users\Andrey\source\repos\lab3WPF\lab3WPF\obj\Debug\MainWindow.baml
+C:\Users\Andrey\source\repos\lab3WPF\lab3WPF\obj\Debug\lab3WPF.g.resources
+C:\Users\Andrey\source\repos\lab3WPF\lab3WPF\obj\Debug\lab3WPF.Properties.Resources.resources
+C:\Users\Andrey\source\repos\lab3WPF\lab3WPF\obj\Debug\lab3WPF.csproj.GenerateResource.cache
+C:\Users\Andrey\source\repos\lab3WPF\lab3WPF\obj\Debug\lab3WPF.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\lab3WPF\lab3WPF\obj\Debug\lab3WPF.csproj.CopyComplete
+C:\Users\Andrey\source\repos\lab3WPF\lab3WPF\obj\Debug\lab3WPF.exe
+C:\Users\Andrey\source\repos\lab3WPF\lab3WPF\obj\Debug\lab3WPF.pdb
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3WPF\lab3WPF\bin\Debug\lab3WPF.exe.config
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3WPF\lab3WPF\bin\Debug\lab3WPF.exe
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3WPF\lab3WPF\bin\Debug\lab3WPF.pdb
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3WPF\lab3WPF\bin\Debug\MaterialDesignColors.dll
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3WPF\lab3WPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3WPF\lab3WPF\bin\Debug\MaterialDesignColors.pdb
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3WPF\lab3WPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3WPF\lab3WPF\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3WPF\lab3WPF\obj\Debug\lab3WPF.csprojAssemblyReference.cache
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3WPF\lab3WPF\obj\Debug\MainWindow.g.cs
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3WPF\lab3WPF\obj\Debug\App.g.cs
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3WPF\lab3WPF\obj\Debug\lab3WPF_MarkupCompile.cache
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3WPF\lab3WPF\obj\Debug\lab3WPF_MarkupCompile.lref
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3WPF\lab3WPF\obj\Debug\App.baml
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3WPF\lab3WPF\obj\Debug\MainWindow.baml
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3WPF\lab3WPF\obj\Debug\lab3WPF.g.resources
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3WPF\lab3WPF\obj\Debug\lab3WPF.Properties.Resources.resources
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3WPF\lab3WPF\obj\Debug\lab3WPF.csproj.GenerateResource.cache
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3WPF\lab3WPF\obj\Debug\lab3WPF.csproj.CoreCompileInputs.cache
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3WPF\lab3WPF\obj\Debug\lab3WPF.csproj.CopyComplete
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3WPF\lab3WPF\obj\Debug\lab3WPF.exe
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3WPF\lab3WPF\obj\Debug\lab3WPF.pdb
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3\lab3WPF\lab3WPF\bin\Debug\lab3WPF.exe.config
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3\lab3WPF\lab3WPF\bin\Debug\lab3WPF.exe
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3\lab3WPF\lab3WPF\bin\Debug\lab3WPF.pdb
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3\lab3WPF\lab3WPF\bin\Debug\MaterialDesignColors.dll
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3\lab3WPF\lab3WPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3\lab3WPF\lab3WPF\bin\Debug\MaterialDesignColors.pdb
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3\lab3WPF\lab3WPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3\lab3WPF\lab3WPF\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3\lab3WPF\lab3WPF\obj\Debug\lab3WPF.csprojAssemblyReference.cache
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3\lab3WPF\lab3WPF\obj\Debug\MainWindow.g.cs
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3\lab3WPF\lab3WPF\obj\Debug\App.g.cs
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3\lab3WPF\lab3WPF\obj\Debug\lab3WPF_MarkupCompile.cache
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3\lab3WPF\lab3WPF\obj\Debug\lab3WPF_MarkupCompile.lref
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3\lab3WPF\lab3WPF\obj\Debug\App.baml
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3\lab3WPF\lab3WPF\obj\Debug\MainWindow.baml
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3\lab3WPF\lab3WPF\obj\Debug\lab3WPF.g.resources
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3\lab3WPF\lab3WPF\obj\Debug\lab3WPF.Properties.Resources.resources
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3\lab3WPF\lab3WPF\obj\Debug\lab3WPF.csproj.GenerateResource.cache
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3\lab3WPF\lab3WPF\obj\Debug\lab3WPF.csproj.CoreCompileInputs.cache
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3\lab3WPF\lab3WPF\obj\Debug\lab3WPF.csproj.CopyComplete
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3\lab3WPF\lab3WPF\obj\Debug\lab3WPF.exe
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3\lab3WPF\lab3WPF\obj\Debug\lab3WPF.pdb
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3\lab3WPF\lab3WPF\obj\Debug\userInter.g.cs
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3\lab3WPF\lab3WPF\obj\Debug\userInter.baml
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\3 ЛАБА\lab3\lab3WPF\lab3WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
